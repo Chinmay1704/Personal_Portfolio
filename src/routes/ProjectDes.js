@@ -1,10 +1,10 @@
 import React from "react";
-import "./ProjectDes.css";
-import WeatherApp from "../media/weather_app.png";
-import Ecommerce from "../media/ecommerce.png";
-import Makaan from "../media/makaan.png";
-import TodoList from "../media/Todo_list.png";
-import CafeWebsite from "../media/Cafe_website.png";
+import "../components/Project-Descr/ProjectDes.css";
+import WeatherApp from "../components/media/weather_app.png";
+import Ecommerce from "../components/media/ecommerce.png";
+import Makaan from "../components/media/makaan.png";
+import TodoList from "../components/media/Todo_list.png";
+import CafeWebsite from "../components/media/Cafe_website.png";
 
 function ProjectDes() {
   return (

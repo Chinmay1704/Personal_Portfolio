@@ -21,7 +21,7 @@ function ProjectPage() {
           </div>
 
           <div className="project-content row">
-            <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
+            <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride='caousel' data-bs-interval="3000">
               <div className="carousel-indicators">
                 <button
                   type="button"
