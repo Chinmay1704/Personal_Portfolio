@@ -62,15 +62,15 @@ a {
 
 @media (max-width: 800px) {
   .projects .project-container {
-    padding: 40px 10px; 
+    padding: 40px 10px;
   }
 
   .projects .project-container .project-heading span {
-    font-size: 24px; 
+    font-size: 24px;
   }
 
   .projects .project-container .project-heading p {
-    font-size: 16px; 
+    font-size: 16px;
   }
 
   .projects .project-container .project-content .carousel-inner .carousel-item {
@@ -78,15 +78,13 @@ a {
   }
 }
 
-
-
 @media (max-width: 500px) {
   .projects .project-container .project-heading span {
-    font-size: 20px; 
+    font-size: 20px;
   }
 
   .projects .project-container .project-heading p {
-    font-size: 14px; 
+    font-size: 14px;
   }
 
   .projects .project-container .project-content .carousel-inner .carousel-item {
@@ -95,12 +93,12 @@ a {
   }
 
   .projects
-  .project-container
-  .project-content
-  .carousel-inner
-  .carousel-item
-  img {
-  height: 75%;
-  width: 100%;
-}
+    .project-container
+    .project-content
+    .carousel-inner
+    .carousel-item
+    img {
+    height: 75%;
+    width: 100%;
+  }
 }
