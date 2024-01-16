@@ -6,15 +6,14 @@ import ProjectsPage from "../components/ProjectPage/ProjectPage";
 import Contact from "../components/ContactPage/contact";
 import { Link } from "react-router-dom";
 
-
 function Hero() {
   return (
     <Link to={"/"}>
-    <HomePage/>
-    <AboutPage/>
-    <Skillspage/>
-    <ProjectsPage/>
-    <Contact/>
+      <HomePage />
+      <AboutPage />
+      <Skillspage />
+      <ProjectsPage />
+      <Contact />
     </Link>
   );
 }

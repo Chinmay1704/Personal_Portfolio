@@ -45,3 +45,17 @@
     color: var(--brand-2);
     text-decoration: underline;
   }
+
+  @media screen and (max-width: 500px) {
+    .navbar {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+
+    .navbar .nav-name,
+    .navbar .nav-content ul {
+      width: fit-content;
+      text-align: left;
+      margin-bottom: 10px;
+    }
+  }

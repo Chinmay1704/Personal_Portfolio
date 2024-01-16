@@ -59,8 +59,8 @@ function ProjectPage() {
                     alt="weather app"
                   />
                   <div className="carousel-caption">
-                    <h5 className="text-black">Weather App using ReactJs</h5>
-                    <p className="text-black">
+                    <h5 className="text-white">Weather App using ReactJs</h5>
+                    <p className="text-white">
                     Displays real-time weather using API integration.
                     </p>
                   </div>
@@ -73,8 +73,8 @@ function ProjectPage() {
 
                   />
                   <div className="carousel-caption">
-                    <h5 className="text-black">MyStyle E-store</h5>
-                    <p className="text-black">
+                    <h5 className="text-white">MyStyle E-store</h5>
+                    <p className="text-white">
                     Minimalist 3-tab E-commerce: Browse, Shop, Checkout.
                     </p>
                   </div>
@@ -86,8 +86,8 @@ function ProjectPage() {
                     alt="Makaan website"
                   />
                   <div className="carousel-caption">
-                    <h5 className="text-black">ApnaMakaan Website</h5>
-                    <p className="text-black">
+                    <h5 className="text-white">ApnaMakaan Website</h5>
+                    <p className="text-white">
                     Discover your dream home with our premier real estate platform.
                     </p>
                   </div>

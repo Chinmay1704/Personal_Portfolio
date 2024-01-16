@@ -172,7 +172,7 @@
 }
 
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 800px) {
   .Logo-M{
     font-size: 26px;
   }
@@ -188,7 +188,7 @@
   }
 }
 
-@media screen and (max-width: 422px){
+@media screen and (max-width: 500px){
   .Logo-M{
     font-size: 20px;
   }
@@ -206,7 +206,7 @@
   }
 
   .intro{
-    margin-left: 4%;
+    margin-left: 2%;
   }
 
   .projs {
